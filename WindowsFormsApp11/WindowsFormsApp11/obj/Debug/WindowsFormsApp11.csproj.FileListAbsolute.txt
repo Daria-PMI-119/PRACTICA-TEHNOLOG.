@@ -1,0 +1,9 @@
+C:\Users\Админ\Desktop\УЧЕБА 1 курс\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+C:\Users\Админ\Desktop\УЧЕБА 1 курс\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+C:\Users\Админ\Desktop\УЧЕБА 1 курс\WindowsFormsApp11\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+C:\Users\Админ\Desktop\УЧЕБА 1 курс\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\УЧЕБА 1 курс\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+C:\Users\Админ\Desktop\УЧЕБА 1 курс\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+C:\Users\Админ\Desktop\УЧЕБА 1 курс\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\УЧЕБА 1 курс\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+C:\Users\Админ\Desktop\УЧЕБА 1 курс\WindowsFormsApp11\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
